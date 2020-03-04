@@ -1,3 +1,6 @@
+def print_hello():
+    print("hello world")
+    print("i made a change biotch")
 
-
-print("hello world")
+if __name__ == "__main__":
+    print_hello()
